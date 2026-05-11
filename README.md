@@ -1,6 +1,5 @@
 # Regression & Classification Metrics Analysis
 
-![Marketing Scatter Plot](./Images/Scatter.png)
 
 ## Project Overview
 This project explores regression and classification modeling techniques using Python and machine learning workflows. The analysis focuses on evaluating predictive performance, understanding relationships between variables, and comparing regression and classification model behavior.
